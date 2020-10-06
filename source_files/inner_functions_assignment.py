@@ -2,7 +2,7 @@
 Author: Rawley Collins
 Program: inner_functions_assignment.py
 
-
+calculates and returns area and perimeter
 """
 
 
